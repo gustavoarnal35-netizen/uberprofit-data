@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "universities_feiraprofissoes_2026_09_24",
+      "name": "Feira USP e as Profissões",
+      "category": "universities",
+      "subcategory": "Career Fair",
+      "city_id": "sp_capital",
+      "zone_id": "sp_butanta_usp",
+      "venue_name": "Praça do Relógio - USP",
+      "latitude": -23.5595,
+      "longitude": -46.7307,
+      "start_date": "2026-09-24",
+      "end_date": "2026-09-26",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "estimated_audience": 4000,
+      "impact_level": "Médio",
+      "event_score": 52.0,
+      "influence_radius_km": 2.5,
+      "description": "Feira USP e as Profissões, evento anual para estudantes do ensino médio conhecerem os cursos de graduação da universidade.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

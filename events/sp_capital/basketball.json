@@ -1,0 +1,27 @@
+{
+  "events": [
+    {
+      "id": "basketball_mock_001",
+      "name": "[MOCK] Final de Basquete - Evento Ficticio de Teste",
+      "category": "basketball",
+      "subcategory": "Basketball Finals",
+      "city_id": "sp_capital",
+      "zone_id": "sp_vila_mariana",
+      "venue_name": "Ginasio do Ibirapuera",
+      "latitude": -23.5890,
+      "longitude": -46.6570,
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-12",
+      "start_time": "19:00",
+      "end_time": "21:30",
+      "estimated_audience": 8000,
+      "impact_level": "Medio",
+      "event_score": 65.0,
+      "influence_radius_km": 3.0,
+      "description": "MOCK/DADO FICTICIO DE TESTE - Jogo de basquete criado apenas para validar o modulo de eventos. Nao representa um evento real.",
+      "source": "Internal",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "culture_tristaoisolda_2026_10_30",
+      "name": "Ópera Tristão e Isolda",
+      "category": "culture",
+      "subcategory": "Opera",
+      "city_id": "sp_capital",
+      "zone_id": "sp_republica",
+      "venue_name": "Theatro Municipal de São Paulo",
+      "latitude": -23.5453,
+      "longitude": -46.6386,
+      "start_date": "2026-10-30",
+      "end_date": "2026-10-30",
+      "start_time": "20:00",
+      "end_time": "23:00",
+      "estimated_audience": 1500,
+      "impact_level": "Médio",
+      "event_score": 58.0,
+      "influence_radius_km": 1.5,
+      "description": "Estreia da ópera Tristão e Isolda, de Wagner, com direção cênica de Daniela Thomas, no Theatro Municipal.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

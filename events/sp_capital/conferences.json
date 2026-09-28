@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "conferences_tjcc_2026_09_29",
+      "name": "13º Congresso TJCC - Todos Juntos Contra o Câncer",
+      "category": "conferences",
+      "subcategory": "Health Conference",
+      "city_id": "sp_capital",
+      "zone_id": "sp_vila_olimpia",
+      "venue_name": "WTC Events Center",
+      "latitude": -23.5975,
+      "longitude": -46.6890,
+      "start_date": "2026-09-29",
+      "end_date": "2026-10-01",
+      "start_time": "09:00",
+      "end_time": "18:00",
+      "estimated_audience": 3000,
+      "impact_level": "Médio",
+      "event_score": 55.0,
+      "influence_radius_km": 2.5,
+      "description": "Congresso Todos Juntos Contra o Câncer, reunindo profissionais de saúde, gestores e pesquisadores em oncologia.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

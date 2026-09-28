@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "public_events_ruasabertas_2026_09_20",
+      "name": "Programa Ruas Abertas - Av. Paulista",
+      "category": "public_events",
+      "subcategory": "Public Gathering",
+      "city_id": "sp_capital",
+      "zone_id": "sp_avenida_paulista",
+      "venue_name": "Avenida Paulista",
+      "latitude": -23.5615,
+      "longitude": -46.6559,
+      "start_date": "2026-09-20",
+      "end_date": "2026-09-20",
+      "start_time": "09:00",
+      "end_time": "16:00",
+      "estimated_audience": 25000,
+      "impact_level": "Alto",
+      "event_score": 80.0,
+      "influence_radius_km": 5.0,
+      "description": "Programa Ruas Abertas, fechamento da Av. Paulista para pedestres, com apresentações de rua e circulação intensa.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+  "events": [
+    {
+      "id": "entertainment_turmadamonica_2026_10_04",
+      "name": "Festival Turma da Mônica",
+      "category": "entertainment",
+      "subcategory": "Festival",
+      "city_id": "sp_capital",
+      "zone_id": "sp_alto_pinheiros",
+      "venue_name": "Parque Villa-Lobos",
+      "latitude": -23.5445,
+      "longitude": -46.7208,
+      "start_date": "2026-10-04",
+      "end_date": "2026-10-12",
+      "start_time": "10:00",
+      "end_time": "18:00",
+      "estimated_audience": 6000,
+      "impact_level": "Médio",
+      "event_score": 62.0,
+      "influence_radius_km": 3.0,
+      "description": "Primeira edição do Festival Turma da Mônica, com programação para famílias em dois fins de semana.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    },
+    {
+      "id": "entertainment_festivalnordestino_2026_10_17",
+      "name": "Festival Nordestino do CTN",
+      "category": "entertainment",
+      "subcategory": "Festival",
+      "city_id": "sp_capital",
+      "zone_id": "sp_limao_ctn",
+      "venue_name": "Centro de Tradições Nordestinas",
+      "latitude": -23.5102,
+      "longitude": -46.6788,
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": "20:00",
+      "end_time": "23:30",
+      "estimated_audience": 8000,
+      "impact_level": "Alto",
+      "event_score": 66.0,
+      "influence_radius_km": 3.0,
+      "description": "Festival Nordestino do CTN, com shows de Falamansa, Flávio José e Filipe Toca, celebrando o Dia do Nordestino.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

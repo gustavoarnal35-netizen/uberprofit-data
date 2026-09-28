@@ -1,0 +1,50 @@
+{
+  "events": [
+    {
+      "id": "shows_jamiroquai_2026_09_13",
+      "name": "Jamiroquai - Latin America Tour 2026",
+      "category": "shows",
+      "subcategory": "Concert",
+      "city_id": "sp_capital",
+      "zone_id": "sp_barra_funda",
+      "venue_name": "Nubank Parque",
+      "latitude": -23.5275,
+      "longitude": -46.6786,
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "start_time": "21:00",
+      "end_time": "23:30",
+      "estimated_audience": 35000,
+      "impact_level": "Alto",
+      "event_score": 75.0,
+      "influence_radius_km": 4.5,
+      "description": "Show da banda britanica Jamiroquai, primeira apresentacao da banda como headliner em um estadio brasileiro, parte da Latin America Tour 2026.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    },
+    {
+      "id": "shows_jorgebenjor_2026_10_17",
+      "name": "Jorge Ben Jor - Alquimia Popular Brasileira",
+      "category": "shows",
+      "subcategory": "Concert",
+      "city_id": "sp_capital",
+      "zone_id": "sp_barra_funda",
+      "venue_name": "Nubank Parque",
+      "latitude": -23.5275,
+      "longitude": -46.6786,
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-17",
+      "start_time": "21:00",
+      "end_time": "23:00",
+      "estimated_audience": 30000,
+      "impact_level": "Alto",
+      "event_score": 70.0,
+      "influence_radius_km": 4.0,
+      "description": "Apresentacao unica de Jorge Ben Jor em estadio na capital paulista, realizacao da 30e com apresentacao do Itau Live.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

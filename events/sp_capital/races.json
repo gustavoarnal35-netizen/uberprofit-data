@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "races_runxp_2026_09_13",
+      "name": "Run XP - Corrida 5k e 10k",
+      "category": "races",
+      "subcategory": "Street Race",
+      "city_id": "sp_capital",
+      "zone_id": "sp_ibirapuera",
+      "venue_name": "Obelisco do Ibirapuera",
+      "latitude": -23.5874,
+      "longitude": -46.6576,
+      "start_date": "2026-09-13",
+      "end_date": "2026-09-13",
+      "start_time": "07:00",
+      "end_time": "10:00",
+      "estimated_audience": 5000,
+      "impact_level": "Médio",
+      "event_score": 60.0,
+      "influence_radius_km": 3.5,
+      "description": "Corrida de rua Run XP, com percursos de 5km e 10km, saindo do Obelisco do Parque Ibirapuera.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

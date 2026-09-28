@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "religious_aparecida_2026_10_12",
+      "name": "Missa Solene de Nossa Senhora Aparecida",
+      "category": "religious",
+      "subcategory": "Mass",
+      "city_id": "sp_capital",
+      "zone_id": "sp_se_centro",
+      "venue_name": "Catedral da Sé",
+      "latitude": -23.5505,
+      "longitude": -46.6333,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-12",
+      "start_time": "09:00",
+      "end_time": "12:00",
+      "estimated_audience": 10000,
+      "impact_level": "Alto",
+      "event_score": 68.0,
+      "influence_radius_km": 3.0,
+      "description": "Celebração em homenagem a Nossa Senhora Aparecida, padroeira do Brasil, feriado nacional.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}

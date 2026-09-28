@@ -1,0 +1,27 @@
+﻿{
+  "events": [
+    {
+      "id": "tourism_revelandosp_2026_09_12",
+      "name": "Festival Revelando SP",
+      "category": "tourism",
+      "subcategory": "Tourism Festival",
+      "city_id": "sp_capital",
+      "zone_id": "sp_barra_funda",
+      "venue_name": "Parque da Água Branca",
+      "latitude": -23.5252,
+      "longitude": -46.6809,
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-15",
+      "start_time": "10:00",
+      "end_time": "20:00",
+      "estimated_audience": 20000,
+      "impact_level": "Alto",
+      "event_score": 75.0,
+      "influence_radius_km": 3.0,
+      "description": "Festival Revelando SP, feira de turismo e artesanato reunindo produtos e atrativos de cidades do interior paulista.",
+      "source": "Web",
+      "status": "Scheduled",
+      "is_active": true
+    }
+  ]
+}
