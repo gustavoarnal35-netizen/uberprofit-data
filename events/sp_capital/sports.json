@@ -1,8 +1,8 @@
-{
+﻿{
   "events": [
     {
       "id": "sports_palmeiras_bahia_2026_10_08",
-      "name": "Palmeiras x Bahia - Brasileirao 29a rodada (TESTE REMOTO)",
+      "name": "Palmeiras x Bahia - Brasileirao 29a rodada",
       "category": "football",
       "subcategory": "Football Match",
       "city_id": "sp_capital",
